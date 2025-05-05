@@ -1,0 +1,6 @@
+[
+  { "value": "beagle", "label": "Beagle", "show": true },
+  { "value": "golden-retriever", "label": "Golden Retriever", "show": true },
+  { "value": "dachshund", "label": "Dachshund", "show": false },
+  { "value": "cocker-spaniel", "label": "Cocker Spaniel", "show": true }
+]
